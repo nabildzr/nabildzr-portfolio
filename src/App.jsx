@@ -108,7 +108,7 @@ function App() {
             }
           />
           <Route
-            path="/guestbook"
+            path="/projects"
             element={
               <Layout>
                 <Projects />
